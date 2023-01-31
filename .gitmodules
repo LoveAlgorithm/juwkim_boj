@@ -1,0 +1,3 @@
+[submodule "boj"]
+	path = boj
+	url = https://github.com/juwkim/boj.git
